@@ -1,5 +1,4 @@
 # MindMetrics: Mental Health Analytics of Tweets
-
 This repository introduces a cutting-edge, modular framework for classifying tweets into mental health categories using advanced Natural Language Processing (NLP) and Machine Learning (ML) techniques. It serves as both an educational resource and a robust baseline for computational mental health research.
 
 
