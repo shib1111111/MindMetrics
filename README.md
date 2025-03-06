@@ -1,4 +1,13 @@
 # MindMetrics: Mental Health Analytics of Tweets
+*This work is part of an IEEE research paper submission and is intended solely for academic research purposes. Use or redistribution without proper permission is prohibited.*
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-TensorFlow-red)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ScikitLearn-orange)
+![NLP](https://img.shields.io/badge/NLP-Spacy-yellow)
+
 This repository introduces a cutting-edge, modular framework for classifying tweets into mental health categories using advanced Natural Language Processing (NLP) and Machine Learning (ML) techniques. It serves as both an educational resource and a robust baseline for computational mental health research.
 
 
@@ -78,17 +87,23 @@ This repository introduces a cutting-edge, modular framework for classifying twe
 
 This repository is a valuable asset for researchers, data scientists, and practitioners eager to explore and apply advanced NLP techniques to mental health analytics. By engaging with the codebase, you will enhance your understanding of state-of-the-art classification methods, model benchmarking, and the complexities of processing real-world textual data.
 
+## Contributing
 
+Contributions to this repo are welcome. Please open an issue or submit a pull request if you have suggestions for:
+- New feature extraction and data preprocessing techniques.
+- Additional machine learning or deep learning models.
+- Enhanced visualization and interpretability tools.
+
+Before using or modifying the project, please note that it is part of an IEEE research paper submission and should not be used without explicit permission.
 
 ## License
 
-This project is distributed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 
 ## Contact
 
-For inquiries, collaboration proposals, or additional details, please reach out:
-
+For questions, collaborations, or further details, please reach out:
 - **Name:** Shib Kumar  
 - **Email:** [shibkumarsaraf05@gmail.com](mailto:shibkumarsaraf05@gmail.com)  
 - **GitHub:** [@shib1111111](https://github.com/shib1111111)
